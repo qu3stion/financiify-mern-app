@@ -82,3 +82,4 @@ Backend:
 ## 👨‍💻 Authors
 * Anthony Tapia
 * George Sucuzhanay
+* Braun Payne
